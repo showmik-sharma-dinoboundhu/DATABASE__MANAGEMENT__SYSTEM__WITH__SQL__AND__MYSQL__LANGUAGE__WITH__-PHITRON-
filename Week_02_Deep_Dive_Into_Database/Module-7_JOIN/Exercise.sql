@@ -1,6 +1,6 @@
 SELECT *
 FROM EMPLOYEES;
-
+job_historydepartments
 SELECT *
 FROM DEPARTMENTS;
 
